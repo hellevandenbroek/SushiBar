@@ -1,0 +1,1339 @@
+13:55:47:825, Waitress #0: Customer #0 is now fetched.
+13:55:47:846, Waitress #1: Customer #1 is now fetched.
+13:55:47:866, Waitress #6: Customer #2 is now fetched.
+13:55:47:879, Waitress #0: Customer #0 is now eating 4 meals here.
+13:55:47:903, Waitress #1: Customer #1 is now eating 4 meals here.
+13:55:47:920, Waitress #6: Customer #2 is now eating 2 meals here.
+13:55:47:927, Waitress #2: Customer #3 is now fetched.
+13:55:47:981, Waitress #2: Customer #3 is now eating 0 meals here.
+13:55:47:985, Waitress #2: Customer #3 is now leaving.
+13:55:47:990, Waitress #9: Customer #4 is now fetched.
+13:55:47:998, Waitress #4: Customer #5 is now fetched.
+13:55:48:44, Waitress #9: Customer #4 is now eating 2 meals here.
+13:55:48:51, Waitress #5: Customer #6 is now fetched.
+13:55:48:52, Waitress #4: Customer #5 is now eating 3 meals here.
+13:55:48:100, Waitress #7: Customer #7 is now fetched.
+13:55:48:108, Waitress #5: Customer #6 is now eating 1 meals here.
+13:55:48:110, Waitress #8: Customer #8 is now fetched.
+13:55:48:154, Waitress #7: Customer #7 is now eating 4 meals here.
+13:55:48:164, Waitress #8: Customer #8 is now eating 3 meals here.
+13:55:48:172, Waitress #2: Customer #9 is now fetched.
+13:55:48:226, Waitress #2: Customer #9 is now eating 3 meals here.
+13:55:48:267, Waitress #3: Customer #10 is now fetched.
+13:55:48:322, Waitress #3: Customer #10 is now eating 3 meals here.
+13:55:51:114, Waitress #5: Customer #6 is now leaving.
+13:55:51:118, Waitress #5: Customer #11 is now fetched.
+13:55:51:172, Waitress #5: Customer #11 is now eating 1 meals here.
+13:55:51:189, ----Door is closed. time: 13:55:51:189----
+13:55:53:925, Waitress #6: Customer #2 is now leaving.
+13:55:53:929, Waitress #6: Customer #12 is now fetched.
+13:55:53:983, Waitress #6: Customer #12 is now eating 0 meals here.
+13:55:53:990, Waitress #6: Customer #12 is now leaving.
+13:55:53:994, Waitress #6: Customer #13 is now fetched.
+13:55:54:49, Waitress #9: Customer #4 is now leaving.
+13:55:54:52, Waitress #6: Customer #13 is now eating 0 meals here.
+13:55:54:55, Waitress #6: Customer #13 is now leaving.
+13:55:54:55, Waitress #9: Customer #14 is now fetched.
+13:55:54:60, Waitress #6: Customer #15 is now fetched.
+13:55:54:109, Waitress #9: Customer #14 is now eating 5 meals here.
+13:55:54:114, Waitress #6: Customer #15 is now eating 2 meals here.
+13:55:54:178, Waitress #5: Customer #11 is now leaving.
+13:55:54:182, Waitress #5: Customer #16 is now fetched.
+13:55:54:236, Waitress #5: Customer #16 is now eating 3 meals here.
+13:55:57:57, Waitress #4: Customer #5 is now leaving.
+13:55:57:62, Waitress #4: Customer #17 is now fetched.
+13:55:57:117, Waitress #4: Customer #17 is now eating 1 meals here.
+13:55:57:168, Waitress #8: Customer #8 is now leaving.
+13:55:57:173, Waitress #8: Customer #18 is now fetched.
+13:55:57:228, Waitress #8: Customer #18 is now eating 0 meals here.
+13:55:57:231, Waitress #2: Customer #9 is now leaving.
+13:55:57:232, Waitress #8: Customer #18 is now leaving.
+13:55:57:232, Waitress #2: Customer #19 is now fetched.
+13:55:57:238, Waitress #8: Customer #20 is now fetched.
+13:55:57:289, Waitress #2: Customer #19 is now eating 1 meals here.
+13:55:57:293, Waitress #8: Customer #20 is now eating 1 meals here.
+13:55:57:327, Waitress #3: Customer #10 is now leaving.
+13:55:57:331, Waitress #3: Customer #21 is now fetched.
+13:55:57:387, Waitress #3: Customer #21 is now eating 3 meals here.
+13:55:59:887, Waitress #0: Customer #0 is now leaving.
+13:55:59:891, Waitress #0: Customer #22 is now fetched.
+13:55:59:908, Waitress #1: Customer #1 is now leaving.
+13:55:59:912, Waitress #1: Customer #23 is now fetched.
+13:55:59:946, Waitress #0: Customer #22 is now eating 2 meals here.
+13:55:59:966, Waitress #1: Customer #23 is now eating 1 meals here.
+13:56:00:118, Waitress #6: Customer #15 is now leaving.
+13:56:00:123, Waitress #6: Customer #24 is now fetched.
+13:56:00:125, Waitress #4: Customer #17 is now leaving.
+13:56:00:128, Waitress #4: Customer #25 is now fetched.
+13:56:00:159, Waitress #7: Customer #7 is now leaving.
+13:56:00:163, Waitress #7: Customer #26 is now fetched.
+13:56:00:179, Waitress #6: Customer #24 is now eating 1 meals here.
+13:56:00:183, Waitress #4: Customer #25 is now eating 3 meals here.
+13:56:00:218, Waitress #7: Customer #26 is now eating 6 meals here.
+13:56:00:293, Waitress #2: Customer #19 is now leaving.
+13:56:00:297, Waitress #8: Customer #20 is now leaving.
+13:56:00:297, Waitress #2: Customer #27 is now fetched.
+13:56:00:302, Waitress #8: Customer #28 is now fetched.
+13:56:00:353, Waitress #2: Customer #27 is now eating 4 meals here.
+13:56:00:357, Waitress #8: Customer #28 is now eating 1 meals here.
+13:56:02:972, Waitress #1: Customer #23 is now leaving.
+13:56:02:976, Waitress #1: Customer #29 is now fetched.
+13:56:03:31, Waitress #1: Customer #29 is now eating 3 meals here.
+13:56:03:184, Waitress #6: Customer #24 is now leaving.
+13:56:03:189, Waitress #6: Customer #30 is now fetched.
+13:56:03:242, Waitress #5: Customer #16 is now leaving.
+13:56:03:244, Waitress #6: Customer #30 is now eating 3 meals here.
+13:56:03:247, Waitress #5: Customer #31 is now fetched.
+13:56:03:303, Waitress #5: Customer #31 is now eating 3 meals here.
+13:56:03:361, Waitress #8: Customer #28 is now leaving.
+13:56:03:367, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+13:56:35:622, Waitress #1: Customer #0 is now fetched.
+13:56:35:641, Waitress #0: Customer #1 is now fetched.
+13:56:35:676, Waitress #1: Customer #0 is now eating 3 meals here.
+13:56:35:697, Waitress #0: Customer #1 is now eating 0 meals here.
+13:56:35:703, Waitress #0: Customer #1 is now leaving.
+13:56:35:724, Waitress #4: Customer #2 is now fetched.
+13:56:35:778, Waitress #4: Customer #2 is now eating 3 meals here.
+13:56:35:803, Waitress #3: Customer #3 is now fetched.
+13:56:35:807, Waitress #2: Customer #4 is now fetched.
+13:56:35:857, Waitress #3: Customer #3 is now eating 0 meals here.
+13:56:35:861, Waitress #2: Customer #4 is now eating 2 meals here.
+13:56:35:862, Waitress #3: Customer #3 is now leaving.
+13:56:35:880, Waitress #9: Customer #5 is now fetched.
+13:56:35:936, Waitress #9: Customer #5 is now eating 0 meals here.
+13:56:35:941, Waitress #9: Customer #5 is now leaving.
+13:56:35:952, Waitress #6: Customer #6 is now fetched.
+13:56:35:974, Waitress #3: Customer #7 is now fetched.
+13:56:36:07, Waitress #6: Customer #6 is now eating 6 meals here.
+13:56:36:28, Waitress #3: Customer #7 is now eating 1 meals here.
+13:56:36:65, Waitress #0: Customer #8 is now fetched.
+13:56:36:106, Waitress #7: Customer #9 is now fetched.
+13:56:36:122, Waitress #0: Customer #8 is now eating 1 meals here.
+13:56:36:145, Waitress #9: Customer #10 is now fetched.
+13:56:36:149, Waitress #8: Customer #11 is now fetched.
+13:56:36:162, Waitress #7: Customer #9 is now eating 4 meals here.
+13:56:36:201, Waitress #8: Customer #11 is now eating 2 meals here.
+13:56:36:201, Waitress #9: Customer #10 is now eating 0 meals here.
+13:56:36:208, Waitress #9: Customer #10 is now leaving.
+13:56:36:240, Waitress #5: Customer #12 is now fetched.
+13:56:36:294, Waitress #5: Customer #12 is now eating 0 meals here.
+13:56:36:299, Waitress #5: Customer #12 is now leaving.
+13:56:36:337, Waitress #9: Customer #13 is now fetched.
+13:56:36:391, Waitress #9: Customer #13 is now eating 3 meals here.
+13:56:36:396, Waitress #5: Customer #14 is now fetched.
+13:56:36:452, Waitress #5: Customer #14 is now eating 2 meals here.
+13:56:39:34, Waitress #3: Customer #7 is now leaving.
+13:56:39:38, Waitress #3: Customer #15 is now fetched.
+13:56:39:94, Waitress #3: Customer #15 is now eating 4 meals here.
+13:56:39:109, ----Door is closed----
+13:56:39:127, Waitress #0: Customer #8 is now leaving.
+13:56:39:133, Waitress #0: Customer #16 is now fetched.
+13:56:39:189, Waitress #0: Customer #16 is now eating 1 meals here.
+13:56:41:863, Waitress #2: Customer #4 is now leaving.
+13:56:41:868, Waitress #2: Customer #17 is now fetched.
+13:56:41:923, Waitress #2: Customer #17 is now eating 2 meals here.
+13:56:42:195, Waitress #0: Customer #16 is now leaving.
+13:56:42:199, Waitress #0: Customer #18 is now fetched.
+13:56:42:208, Waitress #8: Customer #11 is now leaving.
+13:56:42:212, Waitress #8: Customer #19 is now fetched.
+13:56:42:254, Waitress #0: Customer #18 is now eating 2 meals here.
+13:56:42:267, Waitress #8: Customer #19 is now eating 3 meals here.
+13:56:42:457, Waitress #5: Customer #14 is now leaving.
+13:56:42:462, Waitress #5: Customer #20 is now fetched.
+13:56:42:517, Waitress #5: Customer #20 is now eating 0 meals here.
+13:56:42:521, Waitress #5: Customer #20 is now leaving.
+13:56:42:525, Waitress #5: Customer #21 is now fetched.
+13:56:42:581, Waitress #5: Customer #21 is now eating 1 meals here.
+13:56:44:682, Waitress #1: Customer #0 is now leaving.
+13:56:44:687, Waitress #1: Customer #22 is now fetched.
+13:56:44:742, Waitress #1: Customer #22 is now eating 3 meals here.
+13:56:44:784, Waitress #4: Customer #2 is now leaving.
+13:56:44:790, Waitress #4: Customer #23 is now fetched.
+13:56:44:847, Waitress #4: Customer #23 is now eating 1 meals here.
+13:56:45:397, Waitress #9: Customer #13 is now leaving.
+13:56:45:402, Waitress #9: Customer #24 is now fetched.
+13:56:45:457, Waitress #9: Customer #24 is now eating 2 meals here.
+13:56:45:586, Waitress #5: Customer #21 is now leaving.
+13:56:45:591, Waitress #5: Customer #25 is now fetched.
+13:56:45:646, Waitress #5: Customer #25 is now eating 1 meals here.
+13:56:47:853, Waitress #4: Customer #23 is now leaving.
+13:56:47:858, Waitress #4: Customer #26 is now fetched.
+13:56:47:913, Waitress #4: Customer #26 is now eating 3 meals here.
+13:56:47:927, Waitress #2: Customer #17 is now leaving.
+13:56:47:931, Waitress #2: Customer #27 is now fetched.
+13:56:47:987, Waitress #2: Customer #27 is now eating 1 meals here.
+13:56:48:167, Waitress #7: Customer #9 is now leaving.
+13:56:48:172, Waitress #7: Customer #28 is now fetched.
+13:56:48:227, Waitress #7: Customer #28 is now eating 2 meals here.
+13:56:48:259, Waitress #0: Customer #18 is now leaving.
+13:56:48:264, Waitress #0: Customer #29 is now fetched.
+13:56:48:319, Waitress #0: Customer #29 is now eating 4 meals here.
+13:56:48:652, Waitress #5: Customer #25 is now leaving.
+13:56:48:658, Waitress #5: Customer #30 is now fetched.
+13:56:48:713, Waitress #5: Customer #30 is now eating 5 meals here.
+13:56:50:993, Waitress #2: Customer #27 is now leaving.
+13:56:50:998, Waitress #2: Customer #31 is now fetched.
+13:56:51:53, Waitress #2: Customer #31 is now eating 2 meals here.
+13:56:51:99, Waitress #3: Customer #15 is now leaving.
+13:56:51:106, Waitress #3: Customer #32 is now fetched.
+13:56:51:162, Waitress #3: Customer #32 is now eating 1 meals here.
+13:56:51:273, Waitress #8: Customer #19 is now leaving.
+13:56:51:281, Waitress #8: Customer #33 is now fetched.
+13:56:51:336, Waitress #8: Customer #33 is now eating 1 meals here.
+13:56:51:463, Waitress #9: Customer #24 is now leaving.
+13:56:51:468, Waitress #9: Customer #34 is now fetched.
+13:56:51:524, Waitress #9: Customer #34 is now eating 4 meals here.
+13:56:53:746, Waitress #1: Customer #22 is now leaving.
+13:56:53:753, Waitress #1: Customer #35 is now fetched.
+13:56:53:807, Waitress #1: Customer #35 is now eating 1 meals here.
+13:56:54:13, Waitress #6: Customer #6 is now leaving.
+13:56:54:19, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+17:40:26:793, Waitress #0: Customer #0 is now fetched.
+17:40:26:822, Waitress #2: Customer #1 is now fetched.
+17:40:26:848, Waitress #0: Customer #0 is now eating 6 meals here.
+17:40:26:872, Waitress #5: Customer #2 is now fetched.
+17:40:26:878, Waitress #2: Customer #1 is now eating 0 meals here.
+17:40:26:883, Waitress #2: Customer #1 is now leaving.
+17:40:26:927, Waitress #5: Customer #2 is now eating 5 meals here.
+17:40:26:942, Waitress #9: Customer #3 is now fetched.
+17:40:27:08, Waitress #9: Customer #3 is now eating 2 meals here.
+17:40:27:30, Waitress #8: Customer #4 is now fetched.
+17:40:27:91, Waitress #2: Customer #5 is now fetched.
+17:40:27:95, Waitress #8: Customer #4 is now eating 1 meals here.
+17:40:27:120, Waitress #6: Customer #6 is now fetched.
+17:40:27:141, Waitress #7: Customer #7 is now fetched.
+17:40:27:150, Waitress #2: Customer #5 is now eating 2 meals here.
+17:40:27:175, Waitress #6: Customer #6 is now eating 1 meals here.
+17:40:27:190, Waitress #1: Customer #8 is now fetched.
+17:40:27:198, Waitress #7: Customer #7 is now eating 1 meals here.
+17:40:27:208, Waitress #3: Customer #9 is now fetched.
+17:40:27:246, Waitress #1: Customer #8 is now eating 2 meals here.
+17:40:27:260, Waitress #4: Customer #10 is now fetched.
+17:40:27:264, Waitress #3: Customer #9 is now eating 3 meals here.
+17:40:27:317, Waitress #4: Customer #10 is now eating 3 meals here.
+17:40:30:102, Waitress #8: Customer #4 is now leaving.
+17:40:30:106, Waitress #8: Customer #11 is now fetched.
+17:40:30:119, ----Door is closed----
+17:40:30:162, Waitress #8: Customer #11 is now eating 3 meals here.
+17:40:30:181, Waitress #6: Customer #6 is now leaving.
+17:40:30:186, Waitress #6: Customer #12 is now fetched.
+17:40:30:204, Waitress #7: Customer #7 is now leaving.
+17:40:30:210, Waitress #7: Customer #13 is now fetched.
+17:40:30:241, Waitress #6: Customer #12 is now eating 3 meals here.
+17:40:30:265, Waitress #7: Customer #13 is now eating 4 meals here.
+17:40:33:16, Waitress #9: Customer #3 is now leaving.
+17:40:33:21, Waitress #9: Customer #14 is now fetched.
+17:40:33:76, Waitress #9: Customer #14 is now eating 1 meals here.
+17:40:33:156, Waitress #2: Customer #5 is now leaving.
+17:40:33:161, Waitress #2: Customer #15 is now fetched.
+17:40:33:216, Waitress #2: Customer #15 is now eating 2 meals here.
+17:40:33:252, Waitress #1: Customer #8 is now leaving.
+17:40:33:256, Waitress #1: Customer #16 is now fetched.
+17:40:33:313, Waitress #1: Customer #16 is now eating 2 meals here.
+17:40:36:82, Waitress #9: Customer #14 is now leaving.
+17:40:36:86, Waitress #9: Customer #17 is now fetched.
+17:40:36:141, Waitress #9: Customer #17 is now eating 2 meals here.
+17:40:36:268, Waitress #3: Customer #9 is now leaving.
+17:40:36:273, Waitress #3: Customer #18 is now fetched.
+17:40:36:322, Waitress #4: Customer #10 is now leaving.
+17:40:36:328, Waitress #4: Customer #19 is now fetched.
+17:40:36:328, Waitress #3: Customer #18 is now eating 5 meals here.
+17:40:36:386, Waitress #4: Customer #19 is now eating 2 meals here.
+17:40:39:167, Waitress #8: Customer #11 is now leaving.
+17:40:39:172, Waitress #8: Customer #20 is now fetched.
+17:40:39:222, Waitress #2: Customer #15 is now leaving.
+17:40:39:226, Waitress #2: Customer #21 is now fetched.
+17:40:39:227, Waitress #8: Customer #20 is now eating 2 meals here.
+17:40:39:248, Waitress #6: Customer #12 is now leaving.
+17:40:39:253, Waitress #6: Customer #22 is now fetched.
+17:40:39:282, Waitress #2: Customer #21 is now eating 1 meals here.
+17:40:39:309, Waitress #6: Customer #22 is now eating 0 meals here.
+17:40:39:315, Waitress #6: Customer #22 is now leaving.
+17:40:39:319, Waitress #1: Customer #16 is now leaving.
+17:40:39:320, Waitress #6: Customer #23 is now fetched.
+17:40:39:320, Waitress #1: Customer #24 is now fetched.
+17:40:39:374, Waitress #6: Customer #23 is now eating 5 meals here.
+17:40:39:374, Waitress #1: Customer #24 is now eating 3 meals here.
+17:40:41:940, Waitress #5: Customer #2 is now leaving.
+17:40:41:947, Waitress #5: Customer #25 is now fetched.
+17:40:42:02, Waitress #5: Customer #25 is now eating 5 meals here.
+17:40:42:148, Waitress #9: Customer #17 is now leaving.
+17:40:42:154, Waitress #9: Customer #26 is now fetched.
+17:40:42:209, Waitress #9: Customer #26 is now eating 2 meals here.
+17:40:42:272, Waitress #7: Customer #13 is now leaving.
+17:40:42:278, Waitress #7: Customer #27 is now fetched.
+17:40:42:288, Waitress #2: Customer #21 is now leaving.
+17:40:42:293, Waitress #2: Customer #28 is now fetched.
+17:40:42:333, Waitress #7: Customer #27 is now eating 6 meals here.
+17:40:42:349, Waitress #2: Customer #28 is now eating 1 meals here.
+17:40:42:392, Waitress #4: Customer #19 is now leaving.
+17:40:42:397, Waitress #4: Customer #29 is now fetched.
+17:40:42:453, Waitress #4: Customer #29 is now eating 6 meals here.
+17:40:44:855, Waitress #0: Customer #0 is now leaving.
+17:40:44:860, Waitress #0: Customer #30 is now fetched.
+17:40:44:915, Waitress #0: Customer #30 is now eating 3 meals here.
+17:40:45:232, Waitress #8: Customer #20 is now leaving.
+17:40:45:238, Waitress #8: Customer #31 is now fetched.
+17:40:45:294, Waitress #8: Customer #31 is now eating 2 meals here.
+17:40:45:354, Waitress #2: Customer #28 is now leaving.
+17:40:45:359, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+17:40:45:365, -Todays statistics-
+17:40:45:370, Orders served: Sushibar.SynchronizedInteger@771e9808
+17:40:45:375, Takeaway orders: Sushibar.SynchronizedInteger@79d9789b
+17:40:45:380, Total orders: Sushibar.SynchronizedInteger@7de6f378
+17:41:43:11, Waitress #0: Customer #0 is now fetched.
+17:41:43:22, Waitress #1: Customer #1 is now fetched.
+17:41:43:68, Waitress #0: Customer #0 is now eating 2 meals here.
+17:41:43:78, Waitress #1: Customer #1 is now eating 1 meals here.
+17:41:43:102, Waitress #5: Customer #2 is now fetched.
+17:41:43:152, Waitress #8: Customer #3 is now fetched.
+17:41:43:159, Waitress #5: Customer #2 is now eating 1 meals here.
+17:41:43:202, Waitress #7: Customer #4 is now fetched.
+17:41:43:219, Waitress #8: Customer #3 is now eating 1 meals here.
+17:41:43:227, Waitress #9: Customer #5 is now fetched.
+17:41:43:244, Waitress #2: Customer #6 is now fetched.
+17:41:43:259, Waitress #7: Customer #4 is now eating 4 meals here.
+17:41:43:280, Waitress #9: Customer #5 is now eating 4 meals here.
+17:41:43:300, Waitress #2: Customer #6 is now eating 1 meals here.
+17:41:43:319, Waitress #3: Customer #7 is now fetched.
+17:41:43:378, Waitress #3: Customer #7 is now eating 3 meals here.
+17:41:43:412, Waitress #6: Customer #8 is now fetched.
+17:41:43:441, Waitress #4: Customer #9 is now fetched.
+17:41:43:467, Waitress #6: Customer #8 is now eating 5 meals here.
+17:41:43:498, Waitress #4: Customer #9 is now eating 0 meals here.
+17:41:43:503, Waitress #4: Customer #9 is now leaving.
+17:41:43:508, Waitress #4: Customer #10 is now fetched.
+17:41:43:563, Waitress #4: Customer #10 is now eating 4 meals here.
+17:41:46:83, Waitress #1: Customer #1 is now leaving.
+17:41:46:88, Waitress #1: Customer #11 is now fetched.
+17:41:46:143, Waitress #1: Customer #11 is now eating 0 meals here.
+17:41:46:144, ----Door is closed----
+17:41:46:149, Waitress #1: Customer #11 is now leaving.
+17:41:46:154, Waitress #1: Customer #12 is now fetched.
+17:41:46:169, Waitress #5: Customer #2 is now leaving.
+17:41:46:176, Waitress #5: Customer #13 is now fetched.
+17:41:46:209, Waitress #1: Customer #12 is now eating 2 meals here.
+17:41:46:232, Waitress #5: Customer #13 is now eating 1 meals here.
+17:41:46:233, Waitress #8: Customer #3 is now leaving.
+17:41:46:237, Waitress #8: Customer #14 is now fetched.
+17:41:46:292, Waitress #8: Customer #14 is now eating 4 meals here.
+17:41:46:305, Waitress #2: Customer #6 is now leaving.
+17:41:46:310, Waitress #2: Customer #15 is now fetched.
+17:41:46:366, Waitress #2: Customer #15 is now eating 2 meals here.
+17:41:49:73, Waitress #0: Customer #0 is now leaving.
+17:41:49:79, Waitress #0: Customer #16 is now fetched.
+17:41:49:134, Waitress #0: Customer #16 is now eating 3 meals here.
+17:41:49:237, Waitress #5: Customer #13 is now leaving.
+17:41:49:245, Waitress #5: Customer #17 is now fetched.
+17:41:49:301, Waitress #5: Customer #17 is now eating 0 meals here.
+17:41:49:306, Waitress #5: Customer #17 is now leaving.
+17:41:49:311, Waitress #5: Customer #18 is now fetched.
+17:41:49:367, Waitress #5: Customer #18 is now eating 1 meals here.
+17:41:52:215, Waitress #1: Customer #12 is now leaving.
+17:41:52:221, Waitress #1: Customer #19 is now fetched.
+17:41:52:276, Waitress #1: Customer #19 is now eating 8 meals here.
+17:41:52:372, Waitress #2: Customer #15 is now leaving.
+17:41:52:373, Waitress #5: Customer #18 is now leaving.
+17:41:52:378, Waitress #5: Customer #20 is now fetched.
+17:41:52:378, Waitress #2: Customer #21 is now fetched.
+17:41:52:386, Waitress #3: Customer #7 is now leaving.
+17:41:52:392, Waitress #3: Customer #22 is now fetched.
+17:41:52:432, Waitress #5: Customer #20 is now eating 5 meals here.
+17:41:52:432, Waitress #2: Customer #21 is now eating 2 meals here.
+17:41:52:446, Waitress #3: Customer #22 is now eating 4 meals here.
+17:41:55:266, Waitress #7: Customer #4 is now leaving.
+17:41:55:271, Waitress #7: Customer #23 is now fetched.
+17:41:55:286, Waitress #9: Customer #5 is now leaving.
+17:41:55:291, Waitress #9: Customer #24 is now fetched.
+17:41:55:326, Waitress #7: Customer #23 is now eating 4 meals here.
+17:41:55:346, Waitress #9: Customer #24 is now eating 3 meals here.
+17:41:55:569, Waitress #4: Customer #10 is now leaving.
+17:41:55:573, Waitress #4: Customer #25 is now fetched.
+17:41:55:629, Waitress #4: Customer #25 is now eating 6 meals here.
+17:41:58:138, Waitress #0: Customer #16 is now leaving.
+17:41:58:145, Waitress #0: Customer #26 is now fetched.
+17:41:58:202, Waitress #0: Customer #26 is now eating 3 meals here.
+17:41:58:298, Waitress #8: Customer #14 is now leaving.
+17:41:58:305, Waitress #8: Customer #27 is now fetched.
+17:41:58:360, Waitress #8: Customer #27 is now eating 1 meals here.
+17:41:58:438, Waitress #2: Customer #21 is now leaving.
+17:41:58:444, Waitress #2: Customer #28 is now fetched.
+17:41:58:473, Waitress #6: Customer #8 is now leaving.
+17:41:58:477, Waitress #6: Customer #29 is now fetched.
+17:41:58:498, Waitress #2: Customer #28 is now eating 5 meals here.
+17:41:58:533, Waitress #6: Customer #29 is now eating 0 meals here.
+17:41:58:539, Waitress #6: Customer #29 is now leaving.
+17:41:58:546, Waitress #6: Customer #30 is now fetched.
+17:41:58:601, Waitress #6: Customer #30 is now eating 1 meals here.
+17:42:01:366, Waitress #8: Customer #27 is now leaving.
+17:42:01:372, Waitress #8: Customer #31 is now fetched.
+17:42:01:426, Waitress #8: Customer #31 is now eating 6 meals here.
+17:42:01:607, Waitress #6: Customer #30 is now leaving.
+17:42:01:612, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+17:42:01:618, -Todays statistics-
+17:42:01:622, Orders served: 87
+17:42:01:627, Takeaway orders: 87
+17:42:01:632, Total orders: 174
+17:42:24:199, Waitress #1: Customer #0 is now fetched.
+17:42:24:255, Waitress #1: Customer #0 is now eating 2 meals here.
+17:42:24:259, Waitress #0: Customer #1 is now fetched.
+17:42:24:296, Waitress #9: Customer #2 is now fetched.
+17:42:24:312, Waitress #0: Customer #1 is now eating 4 meals here.
+17:42:24:351, Waitress #9: Customer #2 is now eating 1 meals here.
+17:42:24:379, Waitress #8: Customer #3 is now fetched.
+17:42:24:437, Waitress #8: Customer #3 is now eating 6 meals here.
+17:42:24:453, Waitress #2: Customer #4 is now fetched.
+17:42:24:504, Waitress #2: Customer #4 is now eating 1 meals here.
+17:42:24:528, Waitress #4: Customer #5 is now fetched.
+17:42:24:573, Waitress #7: Customer #6 is now fetched.
+17:42:24:577, Waitress #5: Customer #7 is now fetched.
+17:42:24:589, Waitress #3: Customer #8 is now fetched.
+17:42:24:628, Waitress #5: Customer #7 is now eating 0 meals here.
+17:42:24:628, Waitress #7: Customer #6 is now eating 3 meals here.
+17:42:24:629, Waitress #4: Customer #5 is now eating 1 meals here.
+17:42:24:634, Waitress #5: Customer #7 is now leaving.
+17:42:24:645, Waitress #3: Customer #8 is now eating 4 meals here.
+17:42:24:672, Waitress #6: Customer #9 is now fetched.
+17:42:24:727, Waitress #6: Customer #9 is now eating 3 meals here.
+17:42:24:728, Waitress #5: Customer #10 is now fetched.
+17:42:24:783, Waitress #5: Customer #10 is now eating 3 meals here.
+17:42:27:364, Waitress #9: Customer #2 is now leaving.
+17:42:27:370, Waitress #9: Customer #11 is now fetched.
+17:42:27:427, Waitress #9: Customer #11 is now eating 1 meals here.
+17:42:27:434, ----Door is closed----
+17:42:27:524, Waitress #2: Customer #4 is now leaving.
+17:42:27:529, Waitress #2: Customer #12 is now fetched.
+17:42:27:584, Waitress #2: Customer #12 is now eating 6 meals here.
+17:42:27:634, Waitress #4: Customer #5 is now leaving.
+17:42:27:643, Waitress #4: Customer #13 is now fetched.
+17:42:27:701, Waitress #4: Customer #13 is now eating 4 meals here.
+17:42:30:260, Waitress #1: Customer #0 is now leaving.
+17:42:30:265, Waitress #1: Customer #14 is now fetched.
+17:42:30:320, Waitress #1: Customer #14 is now eating 2 meals here.
+17:42:30:434, Waitress #9: Customer #11 is now leaving.
+17:42:30:440, Waitress #9: Customer #15 is now fetched.
+17:42:30:495, Waitress #9: Customer #15 is now eating 1 meals here.
+17:42:33:500, Waitress #9: Customer #15 is now leaving.
+17:42:33:505, Waitress #9: Customer #16 is now fetched.
+17:42:33:560, Waitress #9: Customer #16 is now eating 0 meals here.
+17:42:33:567, Waitress #9: Customer #16 is now leaving.
+17:42:33:573, Waitress #9: Customer #17 is now fetched.
+17:42:33:628, Waitress #9: Customer #17 is now eating 0 meals here.
+17:42:33:632, Waitress #9: Customer #17 is now leaving.
+17:42:33:634, Waitress #7: Customer #6 is now leaving.
+17:42:33:637, Waitress #9: Customer #19 is now fetched.
+17:42:33:637, Waitress #7: Customer #18 is now fetched.
+17:42:33:695, Waitress #7: Customer #18 is now eating 6 meals here.
+17:42:33:695, Waitress #9: Customer #19 is now eating 2 meals here.
+17:42:33:733, Waitress #6: Customer #9 is now leaving.
+17:42:33:738, Waitress #6: Customer #20 is now fetched.
+17:42:33:789, Waitress #5: Customer #10 is now leaving.
+17:42:33:794, Waitress #5: Customer #21 is now fetched.
+17:42:33:795, Waitress #6: Customer #20 is now eating 8 meals here.
+17:42:33:849, Waitress #5: Customer #21 is now eating 4 meals here.
+17:42:36:317, Waitress #0: Customer #1 is now leaving.
+17:42:36:322, Waitress #0: Customer #22 is now fetched.
+17:42:36:325, Waitress #1: Customer #14 is now leaving.
+17:42:36:327, Waitress #1: Customer #23 is now fetched.
+17:42:36:378, Waitress #0: Customer #22 is now eating 4 meals here.
+17:42:36:383, Waitress #1: Customer #23 is now eating 1 meals here.
+17:42:36:650, Waitress #3: Customer #8 is now leaving.
+17:42:36:655, Waitress #3: Customer #24 is now fetched.
+17:42:36:710, Waitress #3: Customer #24 is now eating 5 meals here.
+17:42:39:384, Waitress #1: Customer #23 is now leaving.
+17:42:39:389, Waitress #1: Customer #25 is now fetched.
+17:42:39:445, Waitress #1: Customer #25 is now eating 3 meals here.
+17:42:39:700, Waitress #9: Customer #19 is now leaving.
+17:42:39:705, Waitress #9: Customer #26 is now fetched.
+17:42:39:706, Waitress #4: Customer #13 is now leaving.
+17:42:39:710, Waitress #4: Customer #27 is now fetched.
+17:42:39:760, Waitress #9: Customer #26 is now eating 2 meals here.
+17:42:39:765, Waitress #4: Customer #27 is now eating 0 meals here.
+17:42:39:767, Waitress #4: Customer #27 is now leaving.
+17:42:39:773, Waitress #4: Customer #28 is now fetched.
+17:42:39:828, Waitress #4: Customer #28 is now eating 2 meals here.
+17:42:42:456, Waitress #8: Customer #3 is now leaving.
+17:42:42:461, Waitress #8: Customer #29 is now fetched.
+17:42:42:517, Waitress #8: Customer #29 is now eating 5 meals here.
+17:42:45:592, Waitress #2: Customer #12 is now leaving.
+17:42:45:597, Waitress #2: Customer #30 is now fetched.
+17:42:45:653, Waitress #2: Customer #30 is now eating 3 meals here.
+17:42:45:767, Waitress #9: Customer #26 is now leaving.
+17:42:45:774, Waitress #9: Customer #31 is now fetched.
+17:42:45:830, Waitress #9: Customer #31 is now eating 1 meals here.
+17:42:45:833, Waitress #4: Customer #28 is now leaving.
+17:42:45:835, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+17:42:45:841, -Todays statistics-
+17:42:45:847, Orders served: 88
+17:42:45:852, Takeaway orders: 76
+17:42:45:854, Waitress #5: Customer #21 is now leaving.
+17:42:45:858, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+17:42:45:858, Total orders: 164
+18:23:36:931, Waitress #0: Customer #0 is now fetched.
+18:23:36:936, Waitress #1: Customer #1 is now fetched.
+18:23:36:986, Waitress #5: Customer #2 is now fetched.
+18:23:36:987, Waitress #0: Customer #0 is now eating 3 meals here.
+18:23:36:987, Waitress #1: Customer #1 is now eating 0 meals here.
+18:23:36:992, Waitress #1: Customer #1 is now leaving.
+18:23:37:30, Waitress #6: Customer #3 is now fetched.
+18:23:37:44, Waitress #5: Customer #2 is now eating 4 meals here.
+18:23:37:88, Waitress #6: Customer #3 is now eating 1 meals here.
+18:23:37:109, Waitress #4: Customer #4 is now fetched.
+18:23:37:148, Waitress #1: Customer #5 is now fetched.
+18:23:37:164, Waitress #4: Customer #4 is now eating 2 meals here.
+18:23:37:200, Waitress #7: Customer #6 is now fetched.
+18:23:37:204, Waitress #8: Customer #7 is now fetched.
+18:23:37:207, Waitress #1: Customer #5 is now eating 1 meals here.
+18:23:37:224, Waitress #9: Customer #8 is now fetched.
+18:23:37:231, Waitress #2: Customer #10 is now fetched.
+18:23:37:231, Waitress #3: Customer #9 is now fetched.
+18:23:37:259, Waitress #8: Customer #7 is now eating 1 meals here.
+18:23:37:259, Waitress #7: Customer #6 is now eating 2 meals here.
+18:23:37:280, Waitress #9: Customer #8 is now eating 2 meals here.
+18:23:37:288, Waitress #3: Customer #9 is now eating 3 meals here.
+18:23:37:288, Waitress #2: Customer #10 is now eating 2 meals here.
+18:23:40:98, Waitress #6: Customer #3 is now leaving.
+18:23:40:103, Waitress #6: Customer #11 is now fetched.
+18:23:40:158, Waitress #6: Customer #11 is now eating 3 meals here.
+18:23:40:191, ----Door is closed----
+18:23:40:210, Waitress #1: Customer #5 is now leaving.
+18:23:40:215, Waitress #1: Customer #12 is now fetched.
+18:23:40:265, Waitress #8: Customer #7 is now leaving.
+18:23:40:269, Waitress #1: Customer #12 is now eating 3 meals here.
+18:23:40:270, Waitress #8: Customer #13 is now fetched.
+18:23:40:328, Waitress #8: Customer #13 is now eating 6 meals here.
+18:23:43:170, Waitress #4: Customer #4 is now leaving.
+18:23:43:175, Waitress #4: Customer #14 is now fetched.
+18:23:43:230, Waitress #4: Customer #14 is now eating 1 meals here.
+18:23:43:265, Waitress #7: Customer #6 is now leaving.
+18:23:43:270, Waitress #7: Customer #15 is now fetched.
+18:23:43:285, Waitress #9: Customer #8 is now leaving.
+18:23:43:290, Waitress #9: Customer #16 is now fetched.
+18:23:43:294, Waitress #2: Customer #10 is now leaving.
+18:23:43:299, Waitress #2: Customer #17 is now fetched.
+18:23:43:325, Waitress #7: Customer #15 is now eating 5 meals here.
+18:23:43:344, Waitress #9: Customer #16 is now eating 2 meals here.
+18:23:43:354, Waitress #2: Customer #17 is now eating 2 meals here.
+18:23:45:993, Waitress #0: Customer #0 is now leaving.
+18:23:45:998, Waitress #0: Customer #18 is now fetched.
+18:23:46:53, Waitress #0: Customer #18 is now eating 2 meals here.
+18:23:46:236, Waitress #4: Customer #14 is now leaving.
+18:23:46:241, Waitress #4: Customer #19 is now fetched.
+18:23:46:294, Waitress #3: Customer #9 is now leaving.
+18:23:46:298, Waitress #4: Customer #19 is now eating 2 meals here.
+18:23:46:299, Waitress #3: Customer #20 is now fetched.
+18:23:46:355, Waitress #3: Customer #20 is now eating 4 meals here.
+18:23:49:54, Waitress #5: Customer #2 is now leaving.
+18:23:49:59, Waitress #5: Customer #21 is now fetched.
+18:23:49:126, Waitress #5: Customer #21 is now eating 1 meals here.
+18:23:49:164, Waitress #6: Customer #11 is now leaving.
+18:23:49:169, Waitress #6: Customer #22 is now fetched.
+18:23:49:224, Waitress #6: Customer #22 is now eating 0 meals here.
+18:23:49:229, Waitress #6: Customer #22 is now leaving.
+18:23:49:235, Waitress #6: Customer #23 is now fetched.
+18:23:49:271, Waitress #1: Customer #12 is now leaving.
+18:23:49:275, Waitress #1: Customer #24 is now fetched.
+18:23:49:291, Waitress #6: Customer #23 is now eating 2 meals here.
+18:23:49:332, Waitress #1: Customer #24 is now eating 5 meals here.
+18:23:49:350, Waitress #9: Customer #16 is now leaving.
+18:23:49:356, Waitress #9: Customer #25 is now fetched.
+18:23:49:359, Waitress #2: Customer #17 is now leaving.
+18:23:49:362, Waitress #2: Customer #26 is now fetched.
+18:23:49:411, Waitress #9: Customer #25 is now eating 2 meals here.
+18:23:49:417, Waitress #2: Customer #26 is now eating 1 meals here.
+18:23:52:57, Waitress #0: Customer #18 is now leaving.
+18:23:52:63, Waitress #0: Customer #27 is now fetched.
+18:23:52:117, Waitress #0: Customer #27 is now eating 3 meals here.
+18:23:52:132, Waitress #5: Customer #21 is now leaving.
+18:23:52:137, Waitress #5: Customer #28 is now fetched.
+18:23:52:192, Waitress #5: Customer #28 is now eating 3 meals here.
+18:23:52:300, Waitress #4: Customer #19 is now leaving.
+18:23:52:306, Waitress #4: Customer #29 is now fetched.
+18:23:52:362, Waitress #4: Customer #29 is now eating 3 meals here.
+18:23:52:424, Waitress #2: Customer #26 is now leaving.
+18:23:52:429, Waitress #2: Customer #30 is now fetched.
+18:23:52:483, Waitress #2: Customer #30 is now eating 2 meals here.
+18:23:55:296, Waitress #6: Customer #23 is now leaving.
+18:23:55:301, Waitress #6: Customer #31 is now fetched.
+18:23:55:356, Waitress #6: Customer #31 is now eating 2 meals here.
+18:23:55:417, Waitress #9: Customer #25 is now leaving.
+18:23:55:422, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+18:23:55:426, -Todays statistics-
+18:23:55:431, Orders served: 75
+18:23:55:436, Takeaway orders: 73
+18:23:55:441, Total orders: 148
+18:27:24:584, Waitress #0: Customer #0 is now fetched.
+18:27:24:602, Waitress #1: Customer #1 is now fetched.
+18:27:24:641, Waitress #0: Customer #0 is now eating 1 meals here.
+18:27:24:658, Waitress #1: Customer #1 is now eating 1 meals here.
+18:27:24:677, Waitress #5: Customer #2 is now fetched.
+18:27:24:683, Waitress #7: Customer #3 is now fetched.
+18:27:24:732, Waitress #5: Customer #2 is now eating 3 meals here.
+18:27:24:738, Waitress #7: Customer #3 is now eating 5 meals here.
+18:27:24:755, Waitress #4: Customer #4 is now fetched.
+18:27:24:759, Waitress #6: Customer #5 is now fetched.
+18:27:24:787, Waitress #8: Customer #6 is now fetched.
+18:27:24:814, Waitress #4: Customer #4 is now eating 5 meals here.
+18:27:24:815, Waitress #6: Customer #5 is now eating 2 meals here.
+18:27:24:820, Waitress #3: Customer #7 is now fetched.
+18:27:24:845, Waitress #8: Customer #6 is now eating 1 meals here.
+18:27:24:862, Waitress #9: Customer #8 is now fetched.
+18:27:24:872, Waitress #3: Customer #7 is now eating 1 meals here.
+18:27:24:919, Waitress #9: Customer #8 is now eating 5 meals here.
+18:27:24:921, Waitress #2: Customer #9 is now fetched.
+18:27:24:976, Waitress #2: Customer #9 is now eating 3 meals here.
+18:27:27:654, Waitress #0: Customer #0 is now leaving.
+18:27:27:660, Waitress #0: Customer #10 is now fetched.
+18:27:27:663, Waitress #1: Customer #1 is now leaving.
+18:27:27:665, Waitress #1: Customer #11 is now fetched.
+18:27:27:715, Waitress #0: Customer #10 is now eating 1 meals here.
+18:27:27:720, Waitress #1: Customer #11 is now eating 1 meals here.
+18:27:27:727, ----Door is closed----
+18:27:27:851, Waitress #8: Customer #6 is now leaving.
+18:27:27:855, Waitress #8: Customer #12 is now fetched.
+18:27:27:881, Waitress #3: Customer #7 is now leaving.
+18:27:27:888, Waitress #3: Customer #13 is now fetched.
+18:27:27:912, Waitress #8: Customer #12 is now eating 1 meals here.
+18:27:27:944, Waitress #3: Customer #13 is now eating 6 meals here.
+18:27:30:721, Waitress #0: Customer #10 is now leaving.
+18:27:30:726, Waitress #0: Customer #14 is now fetched.
+18:27:30:727, Waitress #1: Customer #11 is now leaving.
+18:27:30:731, Waitress #1: Customer #15 is now fetched.
+18:27:30:780, Waitress #0: Customer #14 is now eating 0 meals here.
+18:27:30:785, Waitress #0: Customer #14 is now leaving.
+18:27:30:785, Waitress #1: Customer #15 is now eating 5 meals here.
+18:27:30:790, Waitress #0: Customer #16 is now fetched.
+18:27:30:823, Waitress #6: Customer #5 is now leaving.
+18:27:30:828, Waitress #6: Customer #17 is now fetched.
+18:27:30:845, Waitress #0: Customer #16 is now eating 4 meals here.
+18:27:30:885, Waitress #6: Customer #17 is now eating 2 meals here.
+18:27:30:919, Waitress #8: Customer #12 is now leaving.
+18:27:30:925, Waitress #8: Customer #18 is now fetched.
+18:27:30:981, Waitress #8: Customer #18 is now eating 1 meals here.
+18:27:33:755, Waitress #5: Customer #2 is now leaving.
+18:27:33:759, Waitress #5: Customer #19 is now fetched.
+18:27:33:814, Waitress #5: Customer #19 is now eating 6 meals here.
+18:27:33:982, Waitress #2: Customer #9 is now leaving.
+18:27:33:986, Waitress #8: Customer #18 is now leaving.
+18:27:33:987, Waitress #8: Customer #20 is now fetched.
+18:27:33:987, Waitress #2: Customer #21 is now fetched.
+18:27:34:44, Waitress #2: Customer #21 is now eating 4 meals here.
+18:27:34:44, Waitress #8: Customer #20 is now eating 5 meals here.
+18:27:36:890, Waitress #6: Customer #17 is now leaving.
+18:27:36:897, Waitress #6: Customer #22 is now fetched.
+18:27:36:954, Waitress #6: Customer #22 is now eating 1 meals here.
+18:27:39:755, Waitress #7: Customer #3 is now leaving.
+18:27:39:761, Waitress #7: Customer #23 is now fetched.
+18:27:39:819, Waitress #7: Customer #23 is now eating 1 meals here.
+18:27:39:823, Waitress #4: Customer #4 is now leaving.
+18:27:39:824, Waitress #4: Customer #24 is now fetched.
+18:27:39:879, Waitress #4: Customer #24 is now eating 0 meals here.
+18:27:39:884, Waitress #4: Customer #24 is now leaving.
+18:27:39:890, Waitress #4: Customer #25 is now fetched.
+18:27:39:926, Waitress #9: Customer #8 is now leaving.
+18:27:39:931, Waitress #9: Customer #26 is now fetched.
+18:27:39:945, Waitress #4: Customer #25 is now eating 3 meals here.
+18:27:39:961, Waitress #6: Customer #22 is now leaving.
+18:27:39:967, Waitress #6: Customer #27 is now fetched.
+18:27:39:987, Waitress #9: Customer #26 is now eating 4 meals here.
+18:27:40:22, Waitress #6: Customer #27 is now eating 5 meals here.
+18:27:42:824, Waitress #7: Customer #23 is now leaving.
+18:27:42:829, Waitress #7: Customer #28 is now fetched.
+18:27:42:851, Waitress #0: Customer #16 is now leaving.
+18:27:42:856, Waitress #0: Customer #29 is now fetched.
+18:27:42:884, Waitress #7: Customer #28 is now eating 4 meals here.
+18:27:42:911, Waitress #0: Customer #29 is now eating 2 meals here.
+18:27:45:790, Waitress #1: Customer #15 is now leaving.
+18:27:45:795, Waitress #1: Customer #30 is now fetched.
+18:27:45:849, Waitress #1: Customer #30 is now eating 3 meals here.
+18:27:45:949, Waitress #3: Customer #13 is now leaving.
+18:27:45:954, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+18:27:45:959, -Todays statistics-
+18:27:45:964, Orders served: 86
+18:27:45:970, Takeaway orders: 79
+18:27:45:976, Total orders: 165
+18:28:27:760, Waitress #0: Customer #0 is now fetched.
+18:28:27:816, Waitress #0: Customer #0 is now eating 4 meals here.
+18:28:27:836, Waitress #1: Customer #1 is now fetched.
+18:28:27:847, Waitress #3: Customer #2 is now fetched.
+18:28:27:894, Waitress #1: Customer #1 is now eating 0 meals here.
+18:28:27:899, Waitress #1: Customer #1 is now leaving.
+18:28:27:902, Waitress #3: Customer #2 is now eating 5 meals here.
+18:28:27:916, Waitress #5: Customer #3 is now fetched.
+18:28:27:975, Waitress #5: Customer #3 is now eating 0 meals here.
+18:28:27:986, Waitress #5: Customer #3 is now leaving.
+18:28:28:10, Waitress #1: Customer #4 is now fetched.
+18:28:28:69, Waitress #1: Customer #4 is now eating 3 meals here.
+18:28:28:100, Waitress #9: Customer #5 is now fetched.
+18:28:28:132, Waitress #8: Customer #6 is now fetched.
+18:28:28:141, Waitress #5: Customer #7 is now fetched.
+18:28:28:145, Waitress #6: Customer #8 is now fetched.
+18:28:28:146, Waitress #7: Customer #9 is now fetched.
+18:28:28:155, Waitress #9: Customer #5 is now eating 0 meals here.
+18:28:28:155, Waitress #4: Customer #10 is now fetched.
+18:28:28:160, Waitress #9: Customer #5 is now leaving.
+18:28:28:187, Waitress #8: Customer #6 is now eating 5 meals here.
+18:28:28:198, Waitress #7: Customer #9 is now eating 5 meals here.
+18:28:28:198, Waitress #6: Customer #8 is now eating 2 meals here.
+18:28:28:199, Waitress #5: Customer #7 is now eating 3 meals here.
+18:28:28:210, Waitress #4: Customer #10 is now eating 2 meals here.
+18:28:28:245, Waitress #2: Customer #11 is now fetched.
+18:28:28:260, Waitress #9: Customer #12 is now fetched.
+18:28:28:300, Waitress #2: Customer #11 is now eating 1 meals here.
+18:28:28:315, Waitress #9: Customer #12 is now eating 0 meals here.
+18:28:28:320, Waitress #9: Customer #12 is now leaving.
+18:28:28:326, Waitress #9: Customer #13 is now fetched.
+18:28:28:383, Waitress #9: Customer #13 is now eating 2 meals here.
+18:28:31:305, Waitress #2: Customer #11 is now leaving.
+18:28:31:310, Waitress #2: Customer #14 is now fetched.
+18:28:31:367, Waitress #2: Customer #14 is now eating 2 meals here.
+18:28:31:404, ----Door is closed----
+18:28:34:204, Waitress #6: Customer #8 is now leaving.
+18:28:34:209, Waitress #6: Customer #15 is now fetched.
+18:28:34:216, Waitress #4: Customer #10 is now leaving.
+18:28:34:221, Waitress #4: Customer #16 is now fetched.
+18:28:34:264, Waitress #6: Customer #15 is now eating 5 meals here.
+18:28:34:276, Waitress #4: Customer #16 is now eating 7 meals here.
+18:28:34:391, Waitress #9: Customer #13 is now leaving.
+18:28:34:397, Waitress #9: Customer #17 is now fetched.
+18:28:34:453, Waitress #9: Customer #17 is now eating 0 meals here.
+18:28:34:458, Waitress #9: Customer #17 is now leaving.
+18:28:34:463, Waitress #9: Customer #18 is now fetched.
+18:28:34:519, Waitress #9: Customer #18 is now eating 5 meals here.
+18:28:37:75, Waitress #1: Customer #4 is now leaving.
+18:28:37:80, Waitress #1: Customer #19 is now fetched.
+18:28:37:135, Waitress #1: Customer #19 is now eating 5 meals here.
+18:28:37:204, Waitress #5: Customer #7 is now leaving.
+18:28:37:209, Waitress #5: Customer #20 is now fetched.
+18:28:37:264, Waitress #5: Customer #20 is now eating 1 meals here.
+18:28:37:372, Waitress #2: Customer #14 is now leaving.
+18:28:37:377, Waitress #2: Customer #21 is now fetched.
+18:28:37:432, Waitress #2: Customer #21 is now eating 5 meals here.
+18:28:39:821, Waitress #0: Customer #0 is now leaving.
+18:28:39:826, Waitress #0: Customer #22 is now fetched.
+18:28:39:881, Waitress #0: Customer #22 is now eating 1 meals here.
+18:28:40:269, Waitress #5: Customer #20 is now leaving.
+18:28:40:273, Waitress #5: Customer #23 is now fetched.
+18:28:40:328, Waitress #5: Customer #23 is now eating 3 meals here.
+18:28:42:887, Waitress #0: Customer #22 is now leaving.
+18:28:42:892, Waitress #0: Customer #24 is now fetched.
+18:28:42:906, Waitress #3: Customer #2 is now leaving.
+18:28:42:911, Waitress #3: Customer #25 is now fetched.
+18:28:42:948, Waitress #0: Customer #24 is now eating 3 meals here.
+18:28:42:966, Waitress #3: Customer #25 is now eating 5 meals here.
+18:28:43:193, Waitress #8: Customer #6 is now leaving.
+18:28:43:197, Waitress #8: Customer #26 is now fetched.
+18:28:43:204, Waitress #7: Customer #9 is now leaving.
+18:28:43:209, Waitress #7: Customer #27 is now fetched.
+18:28:43:252, Waitress #8: Customer #26 is now eating 3 meals here.
+18:28:43:263, Waitress #7: Customer #27 is now eating 6 meals here.
+18:28:49:269, Waitress #6: Customer #15 is now leaving.
+18:28:49:274, Waitress #6: Customer #28 is now fetched.
+18:28:49:328, Waitress #6: Customer #28 is now eating 2 meals here.
+18:28:49:332, Waitress #5: Customer #23 is now leaving.
+18:28:49:336, Waitress #5: Customer #29 is now fetched.
+18:28:49:391, Waitress #5: Customer #29 is now eating 1 meals here.
+18:28:49:525, Waitress #9: Customer #18 is now leaving.
+18:28:49:529, Waitress #9: Customer #30 is now fetched.
+18:28:49:585, Waitress #9: Customer #30 is now eating 4 meals here.
+18:28:51:955, Waitress #0: Customer #24 is now leaving.
+18:28:51:960, Waitress #0: Customer #31 is now fetched.
+18:28:52:14, Waitress #0: Customer #31 is now eating 2 meals here.
+18:28:52:139, Waitress #1: Customer #19 is now leaving.
+18:28:52:146, Waitress #1: Customer #32 is now fetched.
+18:28:52:202, Waitress #1: Customer #32 is now eating 3 meals here.
+18:28:52:256, Waitress #8: Customer #26 is now leaving.
+18:28:52:261, Waitress #8: Customer #33 is now fetched.
+18:28:52:315, Waitress #8: Customer #33 is now eating 2 meals here.
+18:28:52:396, Waitress #5: Customer #29 is now leaving.
+18:28:52:401, Waitress #5: Customer #34 is now fetched.
+18:28:52:438, Waitress #2: Customer #21 is now leaving.
+18:28:52:446, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+18:28:52:453, -Todays statistics-
+18:28:52:456, Waitress #5: Customer #34 is now eating 2 meals here.
+18:28:52:457, Orders served: 99
+18:28:52:462, Takeaway orders: 95
+18:28:52:468, Total orders: 194
+18:33:45:974, Waitress #1: Customer #1 is now fetched.
+18:33:45:946, Waitress #0: Customer #0 is now fetched.
+18:33:46:31, Waitress #0: Customer #0 is now eating 2 meals here.
+18:33:46:31, Waitress #1: Customer #1 is now eating 3 meals here.
+18:33:46:34, Waitress #7: Customer #2 is now fetched.
+18:33:46:53, Waitress #5: Customer #3 is now fetched.
+18:33:46:93, Waitress #7: Customer #2 is now eating 1 meals here.
+18:33:46:99, Waitress #3: Customer #4 is now fetched.
+18:33:46:114, Waitress #5: Customer #3 is now eating 2 meals here.
+18:33:46:151, Waitress #3: Customer #4 is now eating 2 meals here.
+18:33:46:168, Waitress #2: Customer #5 is now fetched.
+18:33:46:229, Waitress #2: Customer #5 is now eating 1 meals here.
+18:33:46:242, Waitress #4: Customer #6 is now fetched.
+18:33:46:253, Waitress #8: Customer #7 is now fetched.
+18:33:46:300, Waitress #4: Customer #6 is now eating 0 meals here.
+18:33:46:305, Waitress #4: Customer #6 is now leaving.
+18:33:46:308, Waitress #8: Customer #7 is now eating 2 meals here.
+18:33:46:349, Waitress #6: Customer #8 is now fetched.
+18:33:46:404, Waitress #6: Customer #8 is now eating 0 meals here.
+18:33:46:411, Waitress #6: Customer #8 is now leaving.
+18:33:46:413, Waitress #9: Customer #9 is now fetched.
+18:33:46:457, Waitress #4: Customer #10 is now fetched.
+18:33:46:467, Waitress #9: Customer #9 is now eating 2 meals here.
+18:33:46:496, Waitress #6: Customer #11 is now fetched.
+18:33:46:514, Waitress #4: Customer #10 is now eating 3 meals here.
+18:33:46:552, Waitress #6: Customer #11 is now eating 0 meals here.
+18:33:46:557, Waitress #6: Customer #11 is now leaving.
+18:33:46:564, Waitress #6: Customer #12 is now fetched.
+18:33:46:620, Waitress #6: Customer #12 is now eating 2 meals here.
+18:33:49:103, Waitress #7: Customer #2 is now leaving.
+18:33:49:109, Waitress #7: Customer #13 is now fetched.
+18:33:49:166, Waitress #7: Customer #13 is now eating 1 meals here.
+18:33:49:172, ----Door is closed----
+18:33:49:236, Waitress #2: Customer #5 is now leaving.
+18:33:49:243, Waitress #2: Customer #14 is now fetched.
+18:33:49:301, Waitress #2: Customer #14 is now eating 0 meals here.
+18:33:49:306, Waitress #2: Customer #14 is now leaving.
+18:33:49:314, Waitress #2: Customer #15 is now fetched.
+18:33:49:372, Waitress #2: Customer #15 is now eating 6 meals here.
+18:33:52:43, Waitress #0: Customer #0 is now leaving.
+18:33:52:51, Waitress #0: Customer #16 is now fetched.
+18:33:52:106, Waitress #0: Customer #16 is now eating 2 meals here.
+18:33:52:121, Waitress #5: Customer #3 is now leaving.
+18:33:52:126, Waitress #5: Customer #17 is now fetched.
+18:33:52:163, Waitress #3: Customer #4 is now leaving.
+18:33:52:168, Waitress #3: Customer #18 is now fetched.
+18:33:52:172, Waitress #7: Customer #13 is now leaving.
+18:33:52:174, Waitress #7: Customer #19 is now fetched.
+18:33:52:182, Waitress #5: Customer #17 is now eating 1 meals here.
+18:33:52:225, Waitress #3: Customer #18 is now eating 5 meals here.
+18:33:52:229, Waitress #7: Customer #19 is now eating 4 meals here.
+18:33:52:312, Waitress #8: Customer #7 is now leaving.
+18:33:52:317, Waitress #8: Customer #20 is now fetched.
+18:33:52:372, Waitress #8: Customer #20 is now eating 2 meals here.
+18:33:52:473, Waitress #9: Customer #9 is now leaving.
+18:33:52:479, Waitress #9: Customer #21 is now fetched.
+18:33:52:537, Waitress #9: Customer #21 is now eating 4 meals here.
+18:33:52:626, Waitress #6: Customer #12 is now leaving.
+18:33:52:631, Waitress #6: Customer #22 is now fetched.
+18:33:52:686, Waitress #6: Customer #22 is now eating 2 meals here.
+18:33:55:45, Waitress #1: Customer #1 is now leaving.
+18:33:55:50, Waitress #1: Customer #23 is now fetched.
+18:33:55:106, Waitress #1: Customer #23 is now eating 3 meals here.
+18:33:55:187, Waitress #5: Customer #17 is now leaving.
+18:33:55:192, Waitress #5: Customer #24 is now fetched.
+18:33:55:246, Waitress #5: Customer #24 is now eating 2 meals here.
+18:33:55:521, Waitress #4: Customer #10 is now leaving.
+18:33:55:526, Waitress #4: Customer #25 is now fetched.
+18:33:55:580, Waitress #4: Customer #25 is now eating 3 meals here.
+18:33:58:112, Waitress #0: Customer #16 is now leaving.
+18:33:58:118, Waitress #0: Customer #26 is now fetched.
+18:33:58:174, Waitress #0: Customer #26 is now eating 3 meals here.
+18:33:58:378, Waitress #8: Customer #20 is now leaving.
+18:33:58:384, Waitress #8: Customer #27 is now fetched.
+18:33:58:441, Waitress #8: Customer #27 is now eating 1 meals here.
+18:33:58:691, Waitress #6: Customer #22 is now leaving.
+18:33:58:696, Waitress #6: Customer #28 is now fetched.
+18:33:58:753, Waitress #6: Customer #28 is now eating 4 meals here.
+18:34:01:251, Waitress #5: Customer #24 is now leaving.
+18:34:01:256, Waitress #5: Customer #29 is now fetched.
+18:34:01:312, Waitress #5: Customer #29 is now eating 3 meals here.
+18:34:01:448, Waitress #8: Customer #27 is now leaving.
+18:34:01:455, Waitress #8: Customer #30 is now fetched.
+18:34:01:512, Waitress #8: Customer #30 is now eating 3 meals here.
+18:34:04:112, Waitress #1: Customer #23 is now leaving.
+18:34:04:117, Waitress #1: Customer #31 is now fetched.
+18:34:04:172, Waitress #1: Customer #31 is now eating 2 meals here.
+18:34:04:235, Waitress #7: Customer #19 is now leaving.
+18:34:04:241, Waitress #7: Customer #32 is now fetched.
+18:34:04:299, Waitress #7: Customer #32 is now eating 4 meals here.
+18:34:04:542, Waitress #9: Customer #21 is now leaving.
+18:34:04:550, Waitress #9: Customer #33 is now fetched.
+18:34:04:585, Waitress #4: Customer #25 is now leaving.
+18:34:04:590, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+18:34:04:597, -Todays statistics-
+18:34:04:602, Orders served: 75
+18:34:04:605, Waitress #9: Customer #33 is now eating 2 meals here.
+18:34:04:609, Takeaway orders: 108
+18:34:04:615, Total orders: 185
+18:38:59:720, Waitress #0: Customer #0 is now fetched.
+18:38:59:763, Waitress #1: Customer #1 is now fetched.
+18:38:59:802, Waitress #0: Customer #0 is now eating 0 meals here.
+18:38:59:809, Waitress #8: Customer #2 is now fetched.
+18:38:59:809, Waitress #0: Customer #0 is now leaving.
+18:38:59:819, Waitress #1: Customer #1 is now eating 4 meals here.
+18:38:59:865, Waitress #6: Customer #3 is now fetched.
+18:38:59:867, Waitress #8: Customer #2 is now eating 1 meals here.
+18:38:59:928, Waitress #6: Customer #3 is now eating 1 meals here.
+18:38:59:954, Waitress #9: Customer #4 is now fetched.
+18:39:00:23, Waitress #4: Customer #5 is now fetched.
+18:39:00:27, Waitress #9: Customer #4 is now eating 5 meals here.
+18:39:00:42, Waitress #5: Customer #6 is now fetched.
+18:39:00:46, Waitress #2: Customer #7 is now fetched.
+18:39:00:92, Waitress #4: Customer #5 is now eating 3 meals here.
+18:39:00:101, Waitress #5: Customer #6 is now eating 2 meals here.
+18:39:00:102, Waitress #2: Customer #7 is now eating 7 meals here.
+18:39:00:102, Waitress #3: Customer #8 is now fetched.
+18:39:00:129, Waitress #7: Customer #9 is now fetched.
+18:39:00:158, Waitress #3: Customer #8 is now eating 1 meals here.
+18:39:00:185, Waitress #7: Customer #9 is now eating 2 meals here.
+18:39:00:214, Waitress #0: Customer #10 is now fetched.
+18:39:00:269, Waitress #0: Customer #10 is now eating 2 meals here.
+18:39:02:879, Waitress #8: Customer #2 is now leaving.
+18:39:02:884, Waitress #8: Customer #11 is now fetched.
+18:39:02:939, Waitress #6: Customer #3 is now leaving.
+18:39:02:939, Waitress #8: Customer #11 is now eating 1 meals here.
+18:39:02:945, Waitress #6: Customer #12 is now fetched.
+18:39:02:951, ----Door is closed----
+18:39:03:00, Waitress #6: Customer #12 is now eating 1 meals here.
+18:39:03:163, Waitress #3: Customer #8 is now leaving.
+18:39:03:170, Waitress #3: Customer #13 is now fetched.
+18:39:03:225, Waitress #3: Customer #13 is now eating 3 meals here.
+18:39:05:945, Waitress #8: Customer #11 is now leaving.
+18:39:05:950, Waitress #8: Customer #14 is now fetched.
+18:39:06:05, Waitress #6: Customer #12 is now leaving.
+18:39:06:06, Waitress #8: Customer #14 is now eating 6 meals here.
+18:39:06:11, Waitress #6: Customer #15 is now fetched.
+18:39:06:67, Waitress #6: Customer #15 is now eating 4 meals here.
+18:39:06:109, Waitress #5: Customer #6 is now leaving.
+18:39:06:114, Waitress #5: Customer #16 is now fetched.
+18:39:06:169, Waitress #5: Customer #16 is now eating 1 meals here.
+18:39:06:191, Waitress #7: Customer #9 is now leaving.
+18:39:06:196, Waitress #7: Customer #17 is now fetched.
+18:39:06:252, Waitress #7: Customer #17 is now eating 3 meals here.
+18:39:06:274, Waitress #0: Customer #10 is now leaving.
+18:39:06:280, Waitress #0: Customer #18 is now fetched.
+18:39:06:336, Waitress #0: Customer #18 is now eating 7 meals here.
+18:39:09:98, Waitress #4: Customer #5 is now leaving.
+18:39:09:104, Waitress #4: Customer #19 is now fetched.
+18:39:09:161, Waitress #4: Customer #19 is now eating 1 meals here.
+18:39:09:176, Waitress #5: Customer #16 is now leaving.
+18:39:09:180, Waitress #5: Customer #20 is now fetched.
+18:39:09:236, Waitress #5: Customer #20 is now eating 6 meals here.
+18:39:11:827, Waitress #1: Customer #1 is now leaving.
+18:39:11:832, Waitress #1: Customer #21 is now fetched.
+18:39:11:887, Waitress #1: Customer #21 is now eating 4 meals here.
+18:39:12:166, Waitress #4: Customer #19 is now leaving.
+18:39:12:171, Waitress #4: Customer #22 is now fetched.
+18:39:12:225, Waitress #4: Customer #22 is now eating 2 meals here.
+18:39:12:231, Waitress #3: Customer #13 is now leaving.
+18:39:12:236, Waitress #3: Customer #23 is now fetched.
+18:39:12:291, Waitress #3: Customer #23 is now eating 4 meals here.
+18:39:15:42, Waitress #9: Customer #4 is now leaving.
+18:39:15:48, Waitress #9: Customer #24 is now fetched.
+18:39:15:103, Waitress #9: Customer #24 is now eating 4 meals here.
+18:39:15:257, Waitress #7: Customer #17 is now leaving.
+18:39:15:263, Waitress #7: Customer #25 is now fetched.
+18:39:15:320, Waitress #7: Customer #25 is now eating 2 meals here.
+18:39:18:73, Waitress #6: Customer #15 is now leaving.
+18:39:18:78, Waitress #6: Customer #26 is now fetched.
+18:39:18:133, Waitress #6: Customer #26 is now eating 2 meals here.
+18:39:18:231, Waitress #4: Customer #22 is now leaving.
+18:39:18:237, Waitress #4: Customer #27 is now fetched.
+18:39:18:293, Waitress #4: Customer #27 is now eating 1 meals here.
+18:39:21:109, Waitress #2: Customer #7 is now leaving.
+18:39:21:114, Waitress #2: Customer #28 is now fetched.
+18:39:21:169, Waitress #2: Customer #28 is now eating 5 meals here.
+18:39:21:299, Waitress #4: Customer #27 is now leaving.
+18:39:21:305, Waitress #4: Customer #29 is now fetched.
+18:39:21:326, Waitress #7: Customer #25 is now leaving.
+18:39:21:331, Waitress #7: Customer #30 is now fetched.
+18:39:21:361, Waitress #4: Customer #29 is now eating 3 meals here.
+18:39:21:386, Waitress #7: Customer #30 is now eating 4 meals here.
+18:39:23:893, Waitress #1: Customer #21 is now leaving.
+18:39:23:898, Waitress #1: Customer #31 is now fetched.
+18:39:23:954, Waitress #1: Customer #31 is now eating 1 meals here.
+18:39:24:11, Waitress #8: Customer #14 is now leaving.
+18:39:24:19, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+18:39:24:24, -Todays statistics-
+18:39:24:29, Orders served: 93
+18:39:24:35, Takeaway orders: 66
+18:39:24:40, Total orders: 159
+18:43:24:260, Customer #0 is now waiting.
+18:43:24:298, Waitress #9: Customer #0 is now fetched.
+18:43:24:310, Customer #1 is now waiting.
+18:43:24:316, Waitress #8: Customer #1 is now fetched.
+18:43:24:352, Customer #2 is now waiting.
+18:43:24:353, Waitress #9: Customer #0 is now eating 3 meals here.
+18:43:24:358, Waitress #4: Customer #2 is now fetched.
+18:43:24:371, Waitress #8: Customer #1 is now eating 1 meals here.
+18:43:24:415, Waitress #4: Customer #2 is now eating 1 meals here.
+18:43:24:419, Customer #3 is now waiting.
+18:43:24:420, Waitress #0: Customer #3 is now fetched.
+18:43:24:447, Customer #4 is now waiting.
+18:43:24:453, Waitress #2: Customer #4 is now fetched.
+18:43:24:478, Waitress #0: Customer #3 is now eating 3 meals here.
+18:43:24:495, Customer #5 is now waiting.
+18:43:24:502, Waitress #5: Customer #5 is now fetched.
+18:43:24:516, Waitress #2: Customer #4 is now eating 1 meals here.
+18:43:24:541, Customer #6 is now waiting.
+18:43:24:548, Waitress #1: Customer #6 is now fetched.
+18:43:24:565, Waitress #5: Customer #5 is now eating 1 meals here.
+18:43:24:568, Customer #7 is now waiting.
+18:43:24:569, Waitress #7: Customer #7 is now fetched.
+18:43:24:619, Waitress #1: Customer #6 is now eating 2 meals here.
+18:43:24:624, Customer #8 is now waiting.
+18:43:24:627, Waitress #6: Customer #8 is now fetched.
+18:43:24:627, Waitress #7: Customer #7 is now eating 4 meals here.
+18:43:24:658, Customer #9 is now waiting.
+18:43:24:663, Waitress #3: Customer #9 is now fetched.
+18:43:24:682, Waitress #6: Customer #8 is now eating 3 meals here.
+18:43:24:683, Customer #10 is now waiting.
+18:43:24:718, Waitress #3: Customer #9 is now eating 4 meals here.
+18:43:24:774, Customer #11 is now waiting.
+18:43:24:875, Customer #12 is now waiting.
+18:43:24:946, Customer #13 is now waiting.
+18:43:25:17, Customer #14 is now waiting.
+18:43:25:70, Customer #15 is now waiting.
+18:43:25:161, Customer #16 is now waiting.
+18:43:25:173, Customer #17 is now waiting.
+18:43:25:200, Customer #18 is now waiting.
+18:43:25:275, Customer #19 is now waiting.
+18:43:25:291, Customer #20 is now waiting.
+18:43:25:317, Customer #21 is now waiting.
+18:43:25:387, Customer #22 is now waiting.
+18:43:25:461, Customer #23 is now waiting.
+18:43:25:532, Customer #24 is now waiting.
+18:43:25:634, Customer #25 is now waiting.
+18:43:25:724, Customer #26 is now waiting.
+18:43:25:821, Customer #27 is now waiting.
+18:43:25:926, Customer #28 is now waiting.
+18:43:25:979, Customer #29 is now waiting.
+18:43:27:380, Waitress #8: Customer #1 is now leaving.
+18:43:27:386, Customer #30 is now waiting.
+18:43:27:386, Waitress #8: Customer #10 is now fetched.
+18:43:27:419, Waitress #4: Customer #2 is now leaving.
+18:43:27:427, Waitress #4: Customer #11 is now fetched.
+18:43:27:444, Waitress #8: Customer #10 is now eating 4 meals here.
+18:43:27:458, ----Door is closed----
+18:43:27:483, Waitress #4: Customer #11 is now eating 1 meals here.
+18:43:27:528, Waitress #2: Customer #4 is now leaving.
+18:43:27:535, Waitress #2: Customer #12 is now fetched.
+18:43:27:569, Waitress #5: Customer #5 is now leaving.
+18:43:27:576, Waitress #5: Customer #13 is now fetched.
+18:43:27:591, Waitress #2: Customer #12 is now eating 1 meals here.
+18:43:27:633, Waitress #5: Customer #13 is now eating 0 meals here.
+18:43:27:640, Waitress #5: Customer #13 is now leaving.
+18:43:27:645, Waitress #5: Customer #14 is now fetched.
+18:43:27:700, Waitress #5: Customer #14 is now eating 4 meals here.
+18:43:30:489, Waitress #4: Customer #11 is now leaving.
+18:43:30:495, Waitress #4: Customer #15 is now fetched.
+18:43:30:550, Waitress #4: Customer #15 is now eating 1 meals here.
+18:43:30:598, Waitress #2: Customer #12 is now leaving.
+18:43:30:604, Waitress #2: Customer #16 is now fetched.
+18:43:30:626, Waitress #1: Customer #6 is now leaving.
+18:43:30:631, Waitress #1: Customer #17 is now fetched.
+18:43:30:660, Waitress #2: Customer #16 is now eating 1 meals here.
+18:43:30:688, Waitress #1: Customer #17 is now eating 4 meals here.
+18:43:33:358, Waitress #9: Customer #0 is now leaving.
+18:43:33:363, Waitress #9: Customer #18 is now fetched.
+18:43:33:419, Waitress #9: Customer #18 is now eating 2 meals here.
+18:43:33:486, Waitress #0: Customer #3 is now leaving.
+18:43:33:492, Waitress #0: Customer #19 is now fetched.
+18:43:33:547, Waitress #0: Customer #19 is now eating 3 meals here.
+18:43:33:556, Waitress #4: Customer #15 is now leaving.
+18:43:33:562, Waitress #4: Customer #20 is now fetched.
+18:43:33:618, Waitress #4: Customer #20 is now eating 3 meals here.
+18:43:33:666, Waitress #2: Customer #16 is now leaving.
+18:43:33:672, Waitress #2: Customer #21 is now fetched.
+18:43:33:691, Waitress #6: Customer #8 is now leaving.
+18:43:33:696, Waitress #6: Customer #22 is now fetched.
+18:43:33:728, Waitress #2: Customer #21 is now eating 4 meals here.
+18:43:33:752, Waitress #6: Customer #22 is now eating 2 meals here.
+18:43:36:633, Waitress #7: Customer #7 is now leaving.
+18:43:36:639, Waitress #7: Customer #23 is now fetched.
+18:43:36:694, Waitress #7: Customer #23 is now eating 2 meals here.
+18:43:36:726, Waitress #3: Customer #9 is now leaving.
+18:43:36:733, Waitress #3: Customer #24 is now fetched.
+18:43:36:787, Waitress #3: Customer #24 is now eating 4 meals here.
+18:43:39:425, Waitress #9: Customer #18 is now leaving.
+18:43:39:433, Waitress #9: Customer #25 is now fetched.
+18:43:39:449, Waitress #8: Customer #10 is now leaving.
+18:43:39:456, Waitress #8: Customer #26 is now fetched.
+18:43:39:491, Waitress #9: Customer #25 is now eating 4 meals here.
+18:43:39:513, Waitress #8: Customer #26 is now eating 1 meals here.
+18:43:39:707, Waitress #5: Customer #14 is now leaving.
+18:43:39:713, Waitress #5: Customer #27 is now fetched.
+18:43:39:758, Waitress #6: Customer #22 is now leaving.
+18:43:39:764, Waitress #6: Customer #28 is now fetched.
+18:43:39:769, Waitress #5: Customer #27 is now eating 1 meals here.
+18:43:39:819, Waitress #6: Customer #28 is now eating 1 meals here.
+18:43:42:519, Waitress #8: Customer #26 is now leaving.
+18:43:42:524, Waitress #8: Customer #29 is now fetched.
+18:43:42:555, Waitress #0: Customer #19 is now leaving.
+18:43:42:561, Waitress #0: Customer #30 is now fetched.
+18:43:42:580, Waitress #8: Customer #29 is now eating 3 meals here.
+18:43:42:617, Waitress #0: Customer #30 is now eating 3 meals here.
+18:43:42:625, Waitress #4: Customer #20 is now leaving.
+18:43:42:630, ***** NO MORE CUSTOMERS - THE SHOP IS CLOSED NOW. *****
+18:43:42:636, -Todays statistics-
+18:43:42:642, Orders served: 72
+18:43:42:647, Takeaway orders: 73
+18:43:42:653, Total orders: 145
+19:32:02:728, Customer #0 is now waiting.
+19:32:02:772, Waitress #9: Customer #0 is now fetched.
+19:32:02:829, Waitress #9: Customer #0 is now eating 4 meals here.
+19:32:02:849, Customer #1 is now waiting.
+19:32:02:855, Waitress #7: Customer #1 is now fetched.
+19:32:02:899, Customer #2 is now waiting.
+19:32:02:904, Waitress #2: Customer #2 is now fetched.
+19:32:02:913, Waitress #7: Customer #1 is now eating 3 meals here.
+19:32:02:961, Waitress #2: Customer #2 is now eating 2 meals here.
+19:32:02:981, Customer #3 is now waiting.
+19:32:02:987, Waitress #6: Customer #3 is now fetched.
+19:32:03:24, Customer #4 is now waiting.
+19:32:03:30, Waitress #0: Customer #4 is now fetched.
+19:32:03:45, Waitress #6: Customer #3 is now eating 2 meals here.
+19:32:03:46, Customer #5 is now waiting.
+19:32:03:52, Waitress #8: Customer #5 is now fetched.
+19:32:03:91, Waitress #0: Customer #4 is now eating 6 meals here.
+19:32:03:112, Waitress #8: Customer #5 is now eating 4 meals here.
+19:32:03:119, Customer #6 is now waiting.
+19:32:03:124, Waitress #5: Customer #6 is now fetched.
+19:32:03:160, Customer #7 is now waiting.
+19:32:03:165, Waitress #3: Customer #7 is now fetched.
+19:32:03:180, Waitress #5: Customer #6 is now eating 6 meals here.
+19:32:03:181, Customer #8 is now waiting.
+19:32:03:185, Waitress #1: Customer #8 is now fetched.
+19:32:03:227, Waitress #3: Customer #7 is now eating 3 meals here.
+19:32:03:240, Waitress #1: Customer #8 is now eating 2 meals here.
+19:32:03:256, Customer #9 is now waiting.
+19:32:03:262, Waitress #4: Customer #9 is now fetched.
+19:32:03:318, Waitress #4: Customer #9 is now eating 2 meals here.
+19:32:03:330, Customer #10 is now waiting.
+19:32:03:401, Customer #11 is now waiting.
+19:32:03:483, Customer #12 is now waiting.
+19:32:03:580, Customer #13 is now waiting.
+19:32:03:619, Customer #14 is now waiting.
+19:32:03:633, Customer #15 is now waiting.
+19:32:03:715, Customer #16 is now waiting.
+19:32:03:814, Customer #17 is now waiting.
+19:32:03:907, Customer #18 is now waiting.
+19:32:03:974, Customer #19 is now waiting.
+19:32:03:983, Customer #20 is now waiting.
+19:32:04:50, Customer #21 is now waiting.
+19:32:04:68, Customer #22 is now waiting.
+19:32:04:103, Customer #23 is now waiting.
+19:32:04:181, Customer #24 is now waiting.
+19:32:04:283, Customer #25 is now waiting.
+19:32:04:321, Customer #26 is now waiting.
+19:32:04:344, Customer #27 is now waiting.
+19:32:04:391, Customer #28 is now waiting.
+19:32:04:458, Customer #29 is now waiting.
+19:32:08:972, Waitress #2: Customer #2 is now leaving.
+19:32:08:978, Customer #30 is now waiting.
+19:32:08:978, Waitress #2: Customer #10 is now fetched.
+19:32:09:07, ----Door is closed----
+19:32:09:33, Waitress #2: Customer #10 is now eating 3 meals here.
+19:32:09:52, Waitress #6: Customer #3 is now leaving.
+19:32:09:57, Waitress #6: Customer #11 is now fetched.
+19:32:09:114, Waitress #6: Customer #11 is now eating 0 meals here.
+19:32:09:122, Waitress #6: Customer #11 is now leaving.
+19:32:09:128, Waitress #6: Customer #12 is now fetched.
+19:32:09:182, Waitress #6: Customer #12 is now eating 3 meals here.
+19:32:09:247, Waitress #1: Customer #8 is now leaving.
+19:32:09:253, Waitress #1: Customer #13 is now fetched.
+19:32:09:309, Waitress #1: Customer #13 is now eating 2 meals here.
+19:32:09:323, Waitress #4: Customer #9 is now leaving.
+19:32:09:329, Waitress #4: Customer #14 is now fetched.
+19:32:09:384, Waitress #4: Customer #14 is now eating 5 meals here.
+19:32:11:922, Waitress #7: Customer #1 is now leaving.
+19:32:11:927, Waitress #7: Customer #15 is now fetched.
+19:32:11:982, Waitress #7: Customer #15 is now eating 1 meals here.
+19:32:12:232, Waitress #3: Customer #7 is now leaving.
+19:32:12:237, Waitress #3: Customer #16 is now fetched.
+19:32:12:292, Waitress #3: Customer #16 is now eating 0 meals here.
+19:32:12:297, Waitress #3: Customer #16 is now leaving.
+19:32:12:302, Waitress #3: Customer #17 is now fetched.
+19:32:12:357, Waitress #3: Customer #17 is now eating 2 meals here.
+19:32:14:834, Waitress #9: Customer #0 is now leaving.
+19:32:14:839, Waitress #9: Customer #18 is now fetched.
+19:32:14:895, Waitress #9: Customer #18 is now eating 1 meals here.
+19:32:14:987, Waitress #7: Customer #15 is now leaving.
+19:32:14:992, Waitress #7: Customer #19 is now fetched.
+19:32:15:47, Waitress #7: Customer #19 is now eating 1 meals here.
+19:32:15:117, Waitress #8: Customer #5 is now leaving.
+19:32:15:122, Waitress #8: Customer #20 is now fetched.
+19:32:15:177, Waitress #8: Customer #20 is now eating 1 meals here.
+19:32:15:316, Waitress #1: Customer #13 is now leaving.
+19:32:15:321, Waitress #1: Customer #21 is now fetched.
+19:32:15:376, Waitress #1: Customer #21 is now eating 0 meals here.
+19:32:15:381, Waitress #1: Customer #21 is now leaving.
+19:32:15:386, Waitress #1: Customer #22 is now fetched.
+19:32:15:442, Waitress #1: Customer #22 is now eating 4 meals here.
+19:32:17:900, Waitress #9: Customer #18 is now leaving.
+19:32:17:906, Waitress #9: Customer #23 is now fetched.
+19:32:17:960, Waitress #9: Customer #23 is now eating 3 meals here.
+19:32:18:39, Waitress #2: Customer #10 is now leaving.
+19:32:18:44, Waitress #2: Customer #24 is now fetched.
+19:32:18:52, Waitress #7: Customer #19 is now leaving.
+19:32:18:57, Waitress #7: Customer #25 is now fetched.
+19:32:18:99, Waitress #2: Customer #24 is now eating 4 meals here.
+19:32:18:112, Waitress #7: Customer #25 is now eating 2 meals here.
+19:32:18:182, Waitress #8: Customer #20 is now leaving.
+19:32:18:187, Waitress #8: Customer #26 is now fetched.
+19:32:18:190, Waitress #6: Customer #12 is now leaving.
+19:32:18:194, Waitress #6: Customer #27 is now fetched.
+19:32:18:244, Waitress #8: Customer #26 is now eating 4 meals here.
+19:32:18:251, Waitress #6: Customer #27 is now eating 1 meals here.
+19:32:18:365, Waitress #3: Customer #17 is now leaving.
+19:32:18:370, Waitress #3: Customer #28 is now fetched.
+19:32:18:427, Waitress #3: Customer #28 is now eating 1 meals here.
+19:32:21:98, Waitress #0: Customer #4 is now leaving.
+19:32:21:102, Waitress #0: Customer #29 is now fetched.
+19:32:21:157, Waitress #0: Customer #29 is now eating 2 meals here.
+19:32:21:186, Waitress #5: Customer #6 is now leaving.
+19:32:21:192, Waitress #5: Customer #30 is now fetched.
+19:32:21:248, Waitress #5: Customer #30 is now eating 6 meals here.
+19:32:21:256, Waitress #6: Customer #27 is now leaving.
+19:32:21:433, Waitress #3: Customer #28 is now leaving.
+19:32:24:120, Waitress #7: Customer #25 is now leaving.
+19:32:24:390, Waitress #4: Customer #14 is now leaving.
+19:32:26:966, Waitress #9: Customer #23 is now leaving.
+19:32:27:163, Waitress #0: Customer #29 is now leaving.
+19:32:27:446, Waitress #1: Customer #22 is now leaving.
+19:32:30:105, Waitress #2: Customer #24 is now leaving.
+19:32:30:250, Waitress #8: Customer #26 is now leaving.
+19:32:39:253, Waitress #5: Customer #30 is now leaving.
+19:32:39:258, ***** NO MORE CUSTOMERS - THE SHOP IS NOW CLOSED *****
+19:32:39:264, 
+19:32:39:269, STATISTICS FOR TODAY:
+19:32:39:275, Customer: 31
+19:32:39:283, Eaten orders: 80
+19:32:39:288, Takeaway orders: 60
+19:32:39:293, Total orders: 140
+19:32:39:299, DONE
+19:34:48:566, Customer #0 is now waiting.
+19:34:48:602, Waitress #9: Customer #0 is now fetched.
+19:34:48:642, Customer #1 is now waiting.
+19:34:48:648, Waitress #8: Customer #1 is now fetched.
+19:34:48:658, Waitress #9: Customer #0 is now eating 0 meals here.
+19:34:48:664, Waitress #9: Customer #0 is now leaving.
+19:34:48:676, Customer #2 is now waiting.
+19:34:48:681, Waitress #4: Customer #2 is now fetched.
+19:34:48:703, Waitress #8: Customer #1 is now eating 1 meals here.
+19:34:48:738, Waitress #4: Customer #2 is now eating 1 meals here.
+19:34:48:761, Customer #3 is now waiting.
+19:34:48:768, Waitress #5: Customer #3 is now fetched.
+19:34:48:813, Customer #4 is now waiting.
+19:34:48:819, Waitress #6: Customer #4 is now fetched.
+19:34:48:834, Waitress #5: Customer #3 is now eating 4 meals here.
+19:34:48:866, Customer #5 is now waiting.
+19:34:48:874, Waitress #3: Customer #5 is now fetched.
+19:34:48:879, Waitress #6: Customer #4 is now eating 3 meals here.
+19:34:48:933, Customer #6 is now waiting.
+19:34:48:935, Waitress #3: Customer #5 is now eating 3 meals here.
+19:34:48:939, Waitress #2: Customer #6 is now fetched.
+19:34:48:986, Customer #7 is now waiting.
+19:34:48:992, Waitress #9: Customer #7 is now fetched.
+19:34:49:06, Customer #8 is now waiting.
+19:34:49:06, Waitress #2: Customer #6 is now eating 2 meals here.
+19:34:49:12, Waitress #1: Customer #8 is now fetched.
+19:34:49:52, Waitress #9: Customer #7 is now eating 3 meals here.
+19:34:49:58, Customer #9 is now waiting.
+19:34:49:59, Waitress #0: Customer #9 is now fetched.
+19:34:49:70, Waitress #1: Customer #8 is now eating 2 meals here.
+19:34:49:116, Waitress #0: Customer #9 is now eating 5 meals here.
+19:34:49:131, Customer #10 is now waiting.
+19:34:49:137, Waitress #7: Customer #10 is now fetched.
+19:34:49:193, Waitress #7: Customer #10 is now eating 7 meals here.
+19:34:49:206, Customer #11 is now waiting.
+19:34:49:223, Customer #12 is now waiting.
+19:34:49:295, Customer #13 is now waiting.
+19:34:49:383, Customer #14 is now waiting.
+19:34:49:464, Customer #15 is now waiting.
+19:34:49:507, Customer #16 is now waiting.
+19:34:49:513, Customer #17 is now waiting.
+19:34:49:566, Customer #18 is now waiting.
+19:34:49:607, Customer #19 is now waiting.
+19:34:49:646, Customer #20 is now waiting.
+19:34:49:653, Customer #21 is now waiting.
+19:34:49:681, Customer #22 is now waiting.
+19:34:49:724, Customer #23 is now waiting.
+19:34:49:748, Customer #24 is now waiting.
+19:34:49:755, Customer #25 is now waiting.
+19:34:49:769, Customer #26 is now waiting.
+19:34:49:849, Customer #27 is now waiting.
+19:34:49:868, Customer #28 is now waiting.
+19:34:49:935, Customer #29 is now waiting.
+19:34:49:993, Customer #30 is now waiting.
+19:34:51:709, Waitress #8: Customer #1 is now leaving.
+19:34:51:716, Customer #31 is now waiting.
+19:34:51:716, Waitress #8: Customer #11 is now fetched.
+19:34:51:745, Waitress #4: Customer #2 is now leaving.
+19:34:51:751, Waitress #4: Customer #12 is now fetched.
+19:34:51:769, ----Door is closed----
+19:34:51:771, Waitress #8: Customer #11 is now eating 1 meals here.
+19:34:51:806, Waitress #4: Customer #12 is now eating 1 meals here.
+19:34:54:778, Waitress #8: Customer #11 is now leaving.
+19:34:54:783, Waitress #8: Customer #13 is now fetched.
+19:34:54:812, Waitress #4: Customer #12 is now leaving.
+19:34:54:817, Waitress #4: Customer #14 is now fetched.
+19:34:54:838, Waitress #8: Customer #13 is now eating 4 meals here.
+19:34:54:872, Waitress #4: Customer #14 is now eating 1 meals here.
+19:34:55:13, Waitress #2: Customer #6 is now leaving.
+19:34:55:18, Waitress #2: Customer #15 is now fetched.
+19:34:55:72, Waitress #2: Customer #15 is now eating 0 meals here.
+19:34:55:77, Waitress #1: Customer #8 is now leaving.
+19:34:55:78, Waitress #2: Customer #15 is now leaving.
+19:34:55:78, Waitress #1: Customer #16 is now fetched.
+19:34:55:83, Waitress #2: Customer #17 is now fetched.
+19:34:55:133, Waitress #1: Customer #16 is now eating 6 meals here.
+19:34:55:137, Waitress #2: Customer #17 is now eating 3 meals here.
+19:34:57:879, Waitress #4: Customer #14 is now leaving.
+19:34:57:885, Waitress #4: Customer #18 is now fetched.
+19:34:57:887, Waitress #6: Customer #4 is now leaving.
+19:34:57:892, Waitress #6: Customer #19 is now fetched.
+19:34:57:940, Waitress #3: Customer #5 is now leaving.
+19:34:57:942, Waitress #4: Customer #18 is now eating 3 meals here.
+19:34:57:947, Waitress #3: Customer #20 is now fetched.
+19:34:57:948, Waitress #6: Customer #19 is now eating 1 meals here.
+19:34:58:05, Waitress #3: Customer #20 is now eating 4 meals here.
+19:34:58:59, Waitress #9: Customer #7 is now leaving.
+19:34:58:65, Waitress #9: Customer #21 is now fetched.
+19:34:58:120, Waitress #9: Customer #21 is now eating 4 meals here.
+19:35:00:864, Waitress #5: Customer #3 is now leaving.
+19:35:00:869, Waitress #5: Customer #22 is now fetched.
+19:35:00:926, Waitress #5: Customer #22 is now eating 1 meals here.
+19:35:00:954, Waitress #6: Customer #19 is now leaving.
+19:35:00:959, Waitress #6: Customer #23 is now fetched.
+19:35:01:13, Waitress #6: Customer #23 is now eating 2 meals here.
+19:35:03:931, Waitress #5: Customer #22 is now leaving.
+19:35:03:936, Waitress #5: Customer #24 is now fetched.
+19:35:03:991, Waitress #5: Customer #24 is now eating 1 meals here.
+19:35:04:122, Waitress #0: Customer #9 is now leaving.
+19:35:04:127, Waitress #0: Customer #25 is now fetched.
+19:35:04:138, Waitress #2: Customer #17 is now leaving.
+19:35:04:143, Waitress #2: Customer #26 is now fetched.
+19:35:04:182, Waitress #0: Customer #25 is now eating 0 meals here.
+19:35:04:187, Waitress #0: Customer #25 is now leaving.
+19:35:04:192, Waitress #0: Customer #27 is now fetched.
+19:35:04:197, Waitress #2: Customer #26 is now eating 2 meals here.
+19:35:04:247, Waitress #0: Customer #27 is now eating 1 meals here.
+19:35:06:844, Waitress #8: Customer #13 is now leaving.
+19:35:06:849, Waitress #8: Customer #28 is now fetched.
+19:35:06:903, Waitress #8: Customer #28 is now eating 2 meals here.
+19:35:06:948, Waitress #4: Customer #18 is now leaving.
+19:35:06:954, Waitress #4: Customer #29 is now fetched.
+19:35:06:996, Waitress #5: Customer #24 is now leaving.
+19:35:07:01, Waitress #5: Customer #30 is now fetched.
+19:35:07:10, Waitress #4: Customer #29 is now eating 0 meals here.
+19:35:07:16, Waitress #4: Customer #29 is now leaving.
+19:35:07:19, Waitress #6: Customer #23 is now leaving.
+19:35:07:22, Waitress #6: Customer #31 is now fetched.
+19:35:07:56, Waitress #5: Customer #30 is now eating 4 meals here.
+19:35:07:77, Waitress #6: Customer #31 is now eating 2 meals here.
+19:35:07:252, Waitress #0: Customer #27 is now leaving.
+19:35:10:12, Waitress #3: Customer #20 is now leaving.
+19:35:10:128, Waitress #9: Customer #21 is now leaving.
+19:35:10:200, Waitress #7: Customer #10 is now leaving.
+19:35:10:202, Waitress #2: Customer #26 is now leaving.
+19:35:12:908, Waitress #8: Customer #28 is now leaving.
+19:35:13:82, Waitress #6: Customer #31 is now leaving.
+19:35:13:138, Waitress #1: Customer #16 is now leaving.
+19:35:19:60, Waitress #5: Customer #30 is now leaving.
+19:35:19:65, ***** NO MORE CUSTOMERS - THE SHOP IS NOW CLOSED *****
+19:35:19:71, 
+19:35:19:78, STATISTICS FOR TODAY:
+19:35:19:83, Customer: 32
+19:35:19:87, Eaten orders: 74
+19:35:19:92, Takeaway orders: 76
+19:35:19:97, Total orders: 150
+19:35:19:102, DONE
